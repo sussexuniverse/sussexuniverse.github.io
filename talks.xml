@@ -1,0 +1,118 @@
+<!-- <?xml version="1.0" encoding="UTF-8"?> -->
+<talks>
+
+  <talk subject="astronomy" status="2">
+    <name>astronomy</name>
+    <title>Applying astronomical techniques to all sorts of stuff</title>
+    <speaker>Prof. Seb Oliver</speaker>
+    <date>TBC</date>
+    <abstract>Astrophysics can be seen as the ultimate in “blue-skies” research, pushing forward the frontiers of knowledge, but with other benefits to humanity apparently remote.  Of course this misleading in many ways: pushing forward the boundaries of knowledge informs our culture; these quests inspire new generations of scientists; and the driving the boundaries of  technology has many knock effects.   In this talk I will look at more direct benefits. My research in astrophysics has encouraged me to apply advanced statistical and machine-learning techniques to extract the best information from the astronomical data. I’ve been very interested in seeing how those skills can be applied to interesting challenges in other areas.  This talk will take a random walk through some of those efforts.</abstract>
+    <youtube></youtube>
+    <zoom></zoom>
+  </talk>
+
+  <talk subject="quantum" status="2">
+    <name>quantum</name>
+    <title>Constructing the world’s most incredible machines: Quantum Computers</title>
+    <speaker>Prof. Winfried Hensinger</speaker>
+    <date>TBC</date>
+    <abstract>Quantum computer may be able to solve certain problems that are so complicated that even the fastest supercomputer would take millions of years to provide an answer. Entanglement and superposition are quantum phenomena which can be tamed in order to build such a machine. Optimising financial transactions, machine learning, creating new medicines, understanding protein folding and breaking codes are just some of the problems where the existence of a quantum computer could change everything. The challenge to build a universal quantum computers has been described as difficult as manned space travel to Mars. By inventing a new method where voltages applied to a quantum computer microchip are used to implement entanglement operations, we have managed to remove one of the biggest barriers traditionally faced to build a large-scale quantum computer using trapped ions, namely having to precisely align billions of lasers to execute quantum gate operations. In order to be able to build large scale device, a quantum computer needs to be modular. One approach features modules that are connected via photonic interconnect, however, with only very small connection speeds between modules demonstrated so far.  We have invented an alternative method where modules are connected via electric fields, allowing ions to be transported from one module to another giving rise to much faster connection speeds. Incorporating these two inventions, we recently unveiled the first industrial blueprint on how to build a large-scale quantum computer which I will discuss in this talk. I will show progress in constructing a quantum computer prototype at the University of Sussex featuring this technology.</abstract>
+    <youtube></youtube>
+    <zoom></zoom>
+  </talk>
+
+  <talk subject="particle" status="2">
+    <name>particle</name>
+    <title>The Big Bang Experiment</title>
+    <speaker>Prof. Antonella De Santo</speaker>
+    <date>TBC</date>
+    <abstract> The Large Hadron Collider is the world’s largest and most powerful particle colllider. Based at CERN, the European Organization for Nuclear Research, it recreates conditions similar to those that existed in our universe shortly after the Big Bang. I work on the ATLAS experiment at the LHC, where, after the momentous discovery of the Higgs boson in 2012, I am exploring the “terra incognita” beyond the Standard Model of Particle Physics. I will present highlights from this exciting journey.</abstract>
+    <youtube></youtube>
+    <zoom></zoom>
+  </talk>
+
+  <talk subject="particle" status="2">
+    <name>particle</name>
+    <title>Neutrinos: The Deep Secrets of Nature’s Ghosts</title>
+    <speaker>Dr. Lisa Falk</speaker>
+    <date>TBC</date>
+    <abstract>Neutrinos are subatomic particles with the most peculiar behaviour. Created in the stars and in the interior of our own planet, they travel through space close to the speed of light. They mostly zip through the entire Earth, across our galaxy and beyond, without leaving a trace. They have next to no mass and even change their identity in flight. But why is the neutrino so different from the other elementary particles? Could it be its own anti-particle? And what role did it play in shaping our Universe? An experiment deep in a Canadian mine is seeking to unveil some of the secrets of this enigmatic particle.</abstract>
+    <youtube></youtube>
+    <zoom></zoom>
+  </talk>
+
+
+  <talk subject="particle" status="2">
+    <name>particle</name>
+    <title>Symmetries, Scales and the Origin of Everything</title>
+    <speaker>Prof. Phillip Harris</speaker>
+    <date>TBD</date>
+    <abstract>To the human eye, symmetry confers elegance and beauty; to which, intriguingly, slight asymmetries can add interest and appeal. In mathematics and physics, symmetries can often reveal profound truths about the laws of nature. This talk will explore various aspects of symmetry, and will describe a beautiful and subtle experiment that links a structural asymmetry of fundamental particles - on the tiniest scale imaginable - to the grand cosmic asymmetry that resulted in the origin of all of the matter in the Universe.
+ </abstract>
+    <youtube></youtube>
+    <zoom></zoom>
+  </talk>
+
+  <talk subject="particle" status="2">
+    <name>particle</name>
+    <title>Higgs Fizz in the Big Bang</title>
+    <speaker>Prof. Mark Hindmarsh</speaker>
+    <date>TBC</date>
+    <abstract>About 10 picoseconds after the beginning of the Universe, the Higgs field turned on. In extensions of the Standard Model of particle physics, this could have been a first order phase transition, with bubbles of the Higgs phase expanding and colliding at relativistic speeds.  I will discuss how the Higgs “fizz" generates gravitational radiation, prospects for observing the radiation at the future space-based gravitational wave detector LISA, and outline how LISA complements the LHC as a probe of physics beyond the Standard Model.</abstract>
+    <youtube></youtube>
+    <zoom></zoom>
+  </talk>
+
+  <talk subject="materials" status="1">
+    <name>nanomaterials</name>
+    <title>Exploring The Tiny World Of Nanomaterials</title>
+    <speaker>Dr Matt Large</speaker>
+    <date>Thursday, 23 April 2020 - 7:00PM</date>
+    <abstract>“Nano” is a prefix which denotes one billionth of something; a nanometre is then one billionth of a metre. If the Earth was one metre across, then a nanometre would be about the width of a postage stamp. Nanomaterials are pieces of stuff whose size can be measured in nanometres. There are many different nanomaterials, like graphene, and despite their tiny size they have the potential to make big changes to our world. The unique properties of these ultra-small structures can allow us to develop technologies that couldn’t otherwise exist. Let me take you on a tour of the “flatlands”; the tiny world of nanomaterials. We will dive in and see what makes these materials so exceptional, and how we can use and assemble them to create new and exciting things. Fibres tougher than steel, “unbreakable” digital displays, and thermal infrared camouflage. All of this and more is possible when you start by thinking small…</abstract>
+    <youtube>rjn0slT0ghs</youtube>
+    <zoom></zoom>
+  </talk>
+
+  <talk subject="astronomy" status="1">
+    <name>origin-of-the-elements</name>
+    <title>The Origin of the Elements</title>
+    <speaker>Dr. Stephen Wilkins</speaker>
+    <date>Thursday, 23 April 2020 - 7:00PM</date>
+    <abstract>Last year was the 150th anniversary of the first formulation of the periodic table, to mark this anniversary Dr Wilkins will discuss the origins of the chemical elements. These origins range from the big bang, exploding white dwarfs, the collapse of massive stars, and the merger of ultra-compact objects, neutron stars. This final mechanism is responsible for many of the heaviest and rarest elements including gold, silver, and uranium, and was only recently confirmed through observations of a merger event first identified using gravitational waves.</abstract>
+    <youtube>SvjSxS4AKqM</youtube>
+    <zoom></zoom>
+  </talk>
+
+  <talk subject="astronomy"  status="0">
+    <name>happy-birthday-hubble</name>
+    <title>Happy Birthday Hubble</title>
+    <speaker>Dr. Stephen Wilkins</speaker>
+    <date>Thursday, 23 April 2020 - 7:00PM</date>
+    <abstract>The Hubble Space Telescope was launched into orbit almost 30 years ago. Thanks in part to its unique position above the Earth's atmosphere and five manned servicing missions it has maintained its position as one of the world’s premier observatories to this day. Over its 30 year career Hubble has had an unprecedented scientific and cultural impact; discoveries extending from the outer Solar System to the edge of the observable Universe have revolutionised our understanding of astronomy and cosmology while its spectacular images have inspired the wider public’s wonder.
+</abstract>
+    <youtube></youtube>
+    <zoom>https://universityofsussex.zoom.us/j/93903794334?pwd=bWRWelVjZGlYOVQvNjQyMVIyZG82QT09</zoom>
+  </talk>
+
+  <talk subject="mathematics" status="0">
+    <name>epidemics</name>
+    <title>Epidemics: untangling the mysteries of mathematical modelling</title>
+    <speaker>Dr Yuliya Kyrychko</speaker>
+    <date>Thursday, 30 April 2020 - 7:00PM</date>
+    <abstract>“Flattening the curve”, “time to peak”, “pandemic”, “exponential growth” - in recent weeks it was hard to escape these expressions due to the current COVID-19 outbreak. One of the powerful tools behind these terms is the art of mathematical modelling. Mathematical modelling has been used extensively to help predict the development and potential outcomes of recent diseases, such as SARS, Ebola and now COVID-19. So what is mathematically modelling and how is it done? In this talk I will use simple models to explain the modelling process and show a few examples of their applications.</abstract>
+    <youtube></youtube>
+    <zoom>https://universityofsussex.zoom.us/j/97479423757?pwd=RnNZT29UOVFKamMrc3B1UUk2TWlQUT09</zoom>
+  </talk>
+
+  <talk subject="mathematics" status="0">
+    <name>dynamical-systems</name>
+    <title>Dynamical Systems: Attractive and Chaotic</title>
+    <speaker>Prof. Peter Giesl</speaker>
+    <date>Thursday, 7 May 2020 - 7:00PM</date>
+    <abstract>TBC</abstract>
+    <youtube></youtube>
+    <zoom>https://universityofsussex.zoom.us/j/97883512861?pwd=VVVWWmV6RzFzaVFaTk9jZHNlU005QT09</zoom>
+  </talk>
+
+
+</talks>

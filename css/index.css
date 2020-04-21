@@ -1,0 +1,480 @@
+
+
+html {
+  margin:0;
+  height: 100%;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  padding:0;
+  margin:0;
+  height: 100%;
+}
+
+/* default paragraph style */
+p {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16;
+  color: #333;
+}
+
+a {
+  color: #327ba8;
+  text-decoration: none;
+  /* color: #333; */
+}
+
+
+
+/* var colors = {"astronomy": "682CBF", "quantum": "3E49BB", "particle": "526EFF", "materials": "32C12C", "mathematics": "FFEF00", "chemistry": "FF5500", "biology": "D40C00"}; */
+
+
+
+
+
+#header_container {
+  width:100%;
+  background-color: #EEE;
+}
+
+#header {
+  margin: auto;
+  text-align:center;
+  padding: 10px;
+  width:90%;
+  max-width: 900px;
+}
+
+.header_element {
+  /* text-align:left; */
+}
+
+#logo {
+  width:100px;
+  vertical-align:middle;
+  padding: 10px;
+}
+
+#logo_text {
+  vertical-align:middle;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 70;
+}
+
+/* #tagline_text {
+  font-family: 'Quicksand', sans-serif;
+  font-size: 25;
+} */
+
+#nowonline_text {
+  vertical-align:middle;
+  position:absolute;
+  left:100px;
+  top:100px;
+  font-family: 'Rubik', sans-serif;
+  font-size: 25;
+  color:#000;
+  opacity: 1.0;
+}
+
+/* #nowonline_text:hover {
+  opacity: 1.0;
+} */
+
+ #nowonline_logo {
+  vertical-align: middle;
+  width: 40px;
+  padding-right: 10px;
+}
+
+
+
+
+#about_container {
+  /* background-color: #DDD; */
+  width:100%;
+
+}
+
+#about {
+  top: 150px;
+  margin: auto;
+  padding: 10px;
+  width:90%;
+  max-width: 900px;
+}
+
+
+#subjects_container {
+    background-color: #EEE;
+    width:100%;
+  }
+
+  #select_container {
+    margin: auto;
+    width:90%;
+    max-width: 900px;
+    }
+
+  #select {
+      padding: 5px;
+      background-image: linear-gradient(-45deg, #eeeeee 25%, #ffffff 25%, #ffffff 50%, #eeeeee 50%, #eeeeee 75%, #ffffff 75%, #ffffff 100%);
+      background-size: 14.14px 14.14px;
+      width: 400px;
+      font-size: 25px;
+      font-family: 'Rubik', sans-serif;
+      }
+
+
+#subjects {
+    padding: 10px;
+    margin: auto;
+    text-align: center;
+    width:90%;
+    max-width: 900px;
+  }
+
+  .subject-all {
+      background: linear-gradient(
+      90deg,
+      #682CBF,
+      #682CBF 10px,
+      #3E49BB 10px,
+      #3E49BB 20px,
+      #526EFF 20px,
+      #526EFF 30px,
+      #32C12C 30px,
+      #32C12C 40px,
+      #FFEF00 40px,
+      #FFEF00 50px,
+      #FF5500 50px,
+      #FF5500 60px,
+      #D40C00 60px,
+      #D40C00 70px);
+      height: 70px;
+      width: 70px;
+      border-radius: 50%;
+      display: inline-block;
+          }
+
+  .dot {
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+    display: inline-block;
+  }
+
+  .subject {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 12;
+    margin: auto;
+    display: inline-block;
+    width: 70px;
+    height: 85px;
+    padding: 10px;
+    opacity:0.5;
+    filter: alpha(opacity=50);
+    cursor: pointer;
+  }
+
+  .subject:hover {
+    opacity:1.0;
+  }
+
+  .subject_highlighted {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 12;
+    margin: auto;
+    display: inline-block;
+    width: 70px;
+    height: 85px;
+    padding: 10px;
+    cursor: pointer;
+    opacity:1.0;
+  }
+
+  .subject_image {
+    width: 70px;
+    height: 70px;
+  }
+
+
+
+#talks_container {
+  width: 100%;
+  }
+
+#talks {
+  margin: auto;
+  width: 90%;
+  max-width: 1100px;
+  padding: 20px 0px 20px 0px;
+}
+
+.talk_grid {
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: repeat(auto-fit, 350px);
+    grid-auto-rows: 198px;
+    justify-content: center;
+}
+
+
+.talk {
+  position:relative;
+  background-color: #000;
+  vertical-align: text-bottom;
+  cursor: pointer;
+}
+
+.talk_image {
+  position: relative;
+  opacity: 0.6;
+  width: 100%;
+  height: 100%;
+}
+
+.talk_image:hover {
+    opacity: 0.2;
+    filter: alpha(opacity=20);
+}
+
+.talk_status {
+  font-family: 'Rubik', sans-serif;
+  color: #FFF;
+  position: absolute;
+  padding: 5px 20px 5px 10px;
+  font-size: 20;
+  font-weight: bold;
+  top:10px;
+  background-color: #999;
+  opacity:1.0;
+  border:1px;
+  border-color: #FFF;
+}
+
+
+.talk_info {
+  font-family: 'Open Sans', sans-serif;
+  color: #FFF;
+  position: absolute;
+  bottom:0px;
+  padding:5px;
+}
+
+.talk_title {
+  font-family: 'Quicksand', sans-serif;
+  text-transform: uppercase;
+  font-size: 20;
+}
+
+.talk_speaker {
+  font-weight: bold;
+  /* text-transform: uppercase; */
+  font-size: 15;
+}
+
+.talk_date {
+  font-size: 13;
+}
+
+.talk_subject {
+  position: absolute;
+  top: 10px;
+  right:10px;
+  height:50px;
+  width:50px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+
+
+
+
+
+#talk_container {
+  width: 100%;
+  background-color: #EEE;
+  display: none;
+  }
+
+
+
+
+
+#talk_background {
+  position: fixed;
+  top:0;
+  left:0;
+  width:100%;
+  height:100%;
+  min-height: 100%;
+  background-color: #000;
+  opacity: 0.9;
+  display: none;
+}
+
+
+#talk_container {
+  position: absolute;
+  top: 5%;
+  width: 100%;
+  background-color: rgba(0,0,0,0.0);
+  display: none;
+}
+
+#talk_close {
+  margin: 0 auto;
+  position: absolute;
+  top:-15px;
+  right:-15px;
+  width: 30px;
+  }
+
+#talk_window {
+  margin: 0 auto;
+  /* overflow: hidden; */
+  position: relative;
+  width: 80%;
+  max-width: 800px;
+  min-height:300px;
+  background-color: #000;
+}
+
+#videoWrapper {
+  position: relative;
+  padding-bottom: 56.25%; /* 16:9 */
+  height:0;
+}
+
+#videoWrapper iframe {position: absolute; top: 0; left: 0; width: 100%; height: 100%;}
+
+#talk_status {
+  font-family: 'Rubik', sans-serif;
+  color: #FFF;
+  position: absolute;
+  padding: 5px 20px 5px 10px;
+  font-size: 50;
+  font-weight: bold;
+  top:20px;
+  background-color: #999;
+  opacity:1.0;
+  border:1px;
+  border-color: #FFF;
+}
+
+#zoom_status {
+  font-family: 'Rubik', sans-serif;
+  color: #FFF;
+  position: absolute;
+  padding: 5px 20px 5px 10px;
+  font-size: 50;
+  font-weight: bold;
+  top:100px;
+  background-color: #999;
+  opacity:1.0;
+  border:1px;
+  border-color: #FFF;
+}
+
+#talk_info_container {
+  margin: 0 auto;
+  width: 80%;
+  max-width: 800px;
+  /* padding:20px 20px 20px 20px; */
+  color: #333;
+  background-color: #CCC;
+  vertical-align:bottom;
+}
+
+#talk_info {
+  margin: 0 auto;
+  padding-top: 10px;
+  padding-bottom: 20px;
+  width: 95%;
+}
+
+#talk_title {
+  font-family: 'Quicksand', sans-serif;
+  text-transform: uppercase;
+  font-size: 40;
+
+}
+
+#talk_speaker {
+  font-weight: bold;
+  /* text-transform: uppercase; */
+  font-size: 26;
+}
+
+#talk_date {
+  font-size: 22;
+}
+
+#talk_website {
+  font-size: 18;
+  font-weight: bold;
+}
+
+#talk_zoom {
+  font-size: 18;
+  font-weight: bold;
+}
+
+#talk_abstract {
+  font-size: 16;
+}
+
+
+
+
+
+#footer_container {
+  margin: auto;
+  background-color: #111;
+  width:100%;
+
+}
+
+#footer {
+  margin: auto;
+  text-align:center;
+  padding: 10px;
+  width:90%;
+  max-width: 900px;
+}
+
+.footer_section {
+  text-align:left;
+  display: inline-block;
+  vertical-align: top;
+  width:200px;
+  padding: 10px;
+}
+
+.footer_section h3 {
+  font-family: 'Rubik', sans-serif;
+  font-size: 14;
+  color: #FFF;
+}
+
+.footer_section p {
+  font-size: 12;
+  color: #DDD;
+}
+
+
+.footer_social_logo {
+  display: inline-block;
+  vertical-align: center;
+  width: 42px;
+  opacity: 0.5;
+  padding: 5px;
+}
+
+.footer_social_logo:hover {
+  opacity: 1.0;
+}
