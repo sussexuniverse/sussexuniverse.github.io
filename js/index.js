@@ -53,7 +53,7 @@ function make_talk_list(chosen_subject) {
       }
 
 
-      txt += '<div class="talk_subject" style="background-color: #'+colors[subject]+';"><img style="width:50px;" src="images/'+subject+'@4x.png"></div>';
+      txt += '<div class="talk_subject" style="background-color: #'+colors[subject]+';"><img style="width:50px;" src="images/subjects/'+subject+'@4x.png"></div>';
       txt += '<div class="talk_info">';
       txt += '<span class="talk_title">'+x[i].childNodes[0].nodeValue+'</span><br>';
       txt += '<span class="talk_speaker">'+xmlDoc.getElementsByTagName('speaker')[i].childNodes[0].nodeValue+'</span><br>';
@@ -96,7 +96,7 @@ function make_ALL_talk_list() {
       txt += '<div class="talk_status">NOT YET ONLINE</div>';
     }
 
-    txt += '<div class="talk_subject" style="background-color: #'+colors[subject]+';"><img style="width:50px;" src="images/'+subject+'@4x.png"></div>';
+    txt += '<div class="talk_subject" style="background-color: #'+colors[subject]+';"><img style="width:50px;" src="images/subjects/'+subject+'@4x.png"></div>';
     txt += '<div class="talk_info">';
     txt += '<span class="talk_title">'+x[i].childNodes[0].nodeValue+'</span><br>';
     txt += '<span class="talk_speaker">'+xmlDoc.getElementsByTagName('speaker')[i].childNodes[0].nodeValue+'</span><br>';
