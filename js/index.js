@@ -96,6 +96,10 @@ function make_ALL_talk_list() {
       txt += '<div class="talk_status">NOT YET ONLINE</div>';
     }
 
+    if (status=='0') {
+      show_next_talk(i);
+    }
+
     txt += '<div class="talk_subject" style="background-color: #'+colors[subject]+';"><img style="width:50px;" src="images/subjects/'+subject+'@4x.png"></div>';
     txt += '<div class="talk_info">';
     txt += '<span class="talk_title">'+x[i].childNodes[0].nodeValue+'</span><br>';
@@ -113,6 +117,25 @@ function make_ALL_talk_list() {
 
 
 }
+
+
+
+function show_next_talk(i) {
+
+  // document.getElementById("next_talk_image").innerHTML = '<img width="100%" src="images/talks/'+xmlDoc.getElementsByTagName('name')[i].childNodes[0].nodeValue+'@banner.jpg">';
+
+  document.getElementById("next_talk").addEventListener("click", function() {show_talk(i);});
+
+  $("#next_talk_image").css("background-image", "url('images/talks/"+xmlDoc.getElementsByTagName('name')[i].childNodes[0].nodeValue+"@banner.jpg')");
+
+  // document.getElementById("next_talk_zoom").innerHTML = 'Live Q&#38;A on <a href="'+xmlDoc.getElementsByTagName('zoom')[i].childNodes[0].nodeValue+'">Zoom</a>';
+  // document.getElementById("next_talk_website").innerHTML = 'Watch live on <a href="https://www.youtube.com/channel/UC0EJg0QOaBzolMegQFd5Xww">YouTube</a> from 7pm';
+  document.getElementById("next_talk_speaker").innerHTML = xmlDoc.getElementsByTagName('speaker')[i].childNodes[0].nodeValue;
+  document.getElementById("next_talk_date").innerHTML = xmlDoc.getElementsByTagName('date')[i].childNodes[0].nodeValue;
+  document.getElementById("next_talk_title").innerHTML = xmlDoc.getElementsByTagName('title')[i].childNodes[0].nodeValue;
+}
+
+
 
 
 function show_talk(i) {
