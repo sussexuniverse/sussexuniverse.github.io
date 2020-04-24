@@ -84,15 +84,15 @@
     <zoom></zoom>
   </talk>
 
-  <talk subject="astronomy"  status="0">
+  <talk subject="astronomy"  status="1">
     <name>happy-birthday-hubble</name>
     <title>Happy Birthday Hubble</title>
     <speaker>Dr. Stephen Wilkins</speaker>
     <date>Thursday, 23 April 2020 - 7:00PM</date>
     <abstract>The Hubble Space Telescope was launched into orbit almost 30 years ago. Thanks in part to its unique position above the Earth's atmosphere and five manned servicing missions it has maintained its position as one of the world’s premier observatories to this day. Over its 30 year career Hubble has had an unprecedented scientific and cultural impact; discoveries extending from the outer Solar System to the edge of the observable Universe have revolutionised our understanding of astronomy and cosmology while its spectacular images have inspired the wider public’s wonder.
 </abstract>
-    <youtube></youtube>
-    <zoom>https://universityofsussex.zoom.us/j/93903794334?pwd=bWRWelVjZGlYOVQvNjQyMVIyZG82QT09</zoom>
+    <youtube>8S-Y9yjm1zM</youtube>
+    <zoom></zoom>
   </talk>
 
   <talk subject="mathematics" status="0">
