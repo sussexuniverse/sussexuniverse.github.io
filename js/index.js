@@ -161,7 +161,7 @@ document.getElementById("talk_window").innerHTML += '<div id="talk_close" onclic
 
 
   if (status=='0') {
-    document.getElementById("talk_website").innerHTML = 'Watch live on <a href="https://www.youtube.com/channel/UC0EJg0QOaBzolMegQFd5Xww">YouTube</a> from 7pm';
+    document.getElementById("talk_website").innerHTML = 'Watch live on <a href="https://www.youtube.com/channel/UC0EJg0QOaBzolMegQFd5Xww">YouTube</a>';
     document.getElementById("talk_zoom").innerHTML = 'Live Q&#38;A on <a href="'+xmlDoc.getElementsByTagName('zoom')[i].childNodes[0].nodeValue+'">Zoom</a>';
     $("#talk_zoom").css("display", "block");
     $("#talk_website").css("display", "block");
@@ -171,6 +171,8 @@ document.getElementById("talk_window").innerHTML += '<div id="talk_close" onclic
   }
 
   document.getElementById("talk_abstract").innerHTML = xmlDoc.getElementsByTagName('abstract')[i].childNodes[0].nodeValue;
+  document.getElementById("talk_bio").innerHTML = xmlDoc.getElementsByTagName('bio')[i].childNodes[0].nodeValue;
+
 
   $("#talk_background").css("display", "block");
   $("#talk_container").css("display", "block");
