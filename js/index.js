@@ -44,7 +44,10 @@ function make_talk_list(chosen_subject) {
       txt += '<img class="talk_image" src="images/talks/'+xmlDoc.getElementsByTagName('name')[i].childNodes[0].nodeValue+'@small.jpg">';
 
       status = xmlDoc.getElementsByTagName('talk')[i].getAttribute('status');
-      if (status=='0') {
+      
+      if (status=='3') {
+        txt += '<div class="talk_status">WATCH NOW. LIVE Q&#38;A COMING SOON</div>';
+      } else if (status=='0') {
         txt += '<div class="talk_status">COMING SOON</div>';
       } else if (status=='1') {
         txt += '<div class="talk_status">WATCH NOW</div>';
@@ -92,8 +95,7 @@ function make_ALL_talk_list() {
 
     if (status=='3') {
       txt += '<div class="talk_status">WATCH NOW. LIVE Q&#38;A COMING SOON</div>';
-    }
-    else if (status=='0') {
+    } else if (status=='0') {
       txt += '<div class="talk_status">COMING SOON</div>';
     } else if (status=='1') {
       txt += '<div class="talk_status">WATCH NOW</div>';

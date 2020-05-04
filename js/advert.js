@@ -25,15 +25,17 @@ function make_ALL_talk_list() {
     txt += '<img class="talk_image" src="images/talks/'+xmlDoc.getElementsByTagName('name')[i].childNodes[0].nodeValue+'@preview.jpg">';
 
     status = xmlDoc.getElementsByTagName('talk')[i].getAttribute('status');
-    if (status=='0') {
-      txt += '<div class="talk_status">LIVE Q&amp;A on Zoom</div>';
+    if (status=='3') {
+      txt += '<div class="talk_status">WATCH NOW. LIVE Q&#38;A COMING SOON</div>';
+    } else if (status=='0') {
+      txt += '<div class="talk_status">COMING SOON</div>';
     } else if (status=='1') {
       txt += '<div class="talk_status">WATCH NOW</div>';
     } else {
       txt += '<div class="talk_status">NOT YET ONLINE</div>';
     }
 
-    txt += '<div class="talk_subject" style="background-color: #'+colors[subject]+';"><img style="width:150px;" src="images/'+subject+'@4x.png"></div>';
+    txt += '<div class="talk_subject" style="background-color: #'+colors[subject]+';"><img style="width:150px;" src="images/subjects/'+subject+'@4x.png"></div>';
     txt += '<div class="talk_info">';
     txt += '<span class="talk_title">'+x[i].childNodes[0].nodeValue+'</span><br>';
     txt += '<span class="talk_speaker">'+xmlDoc.getElementsByTagName('speaker')[i].childNodes[0].nodeValue+'</span><br>';
