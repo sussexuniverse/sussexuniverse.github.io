@@ -58,13 +58,13 @@
     <bio> </bio>
   </talk>
 
-  <talk subject="particle" status="2">
-    <name>particle</name>
+  <talk subject="particle" status="1">
+    <name>neutrinos</name>
     <title>Neutrinos: The Deep Secrets of Nature’s Ghosts</title>
     <speaker>Dr. Lisa Falk</speaker>
     <date>Thursday, 9 May 2019 - 7:00PM </date>
     <abstract>Neutrinos are subatomic particles with the most peculiar behaviour. Created in the stars and in the interior of our own planet, they travel through space close to the speed of light. They mostly zip through the entire Earth, across our galaxy and beyond, without leaving a trace. They have next to no mass and even change their identity in flight. But why is the neutrino so different from the other elementary particles? Could it be its own anti-particle? And what role did it play in shaping our Universe? An experiment deep in a Canadian mine is seeking to unveil some of the secrets of this enigmatic particle.</abstract>
-    <youtube></youtube>
+    <youtube>hJZclTdpGu4</youtube>
     <zoom></zoom>
     <bio> </bio>
   </talk>
@@ -115,13 +115,13 @@
     <bio> </bio>
   </talk>
 
-  <talk subject="mathematics" status="0">
+  <talk subject="mathematics" status="1">
     <name>dynamical-systems</name>
     <title>Dynamical Systems: Attractive and Chaotic</title>
     <speaker>Prof. Peter Giesl</speaker>
     <date>Thursday, 7 May 2020 - 7:00PM</date>
     <abstract>Dynamical systems arise everywhere in nature: they describe populations of foxes and rabbits, the movements of planets, weather forecast, even acrobatics. They describe systems which evolve with time. Such systems can have very different long-time behaviour: either they can tend to a certain state, e.g. foxes and rabbits die out eventually, or just one of them survives. Or they can tend to periodic behaviour, e.g. a planet moving around the sun. They can also be chaotic, such as the famous Lorenz system, describing weather. In this talk we will see a variety of dynamical systems in pictures and movies, and we will understand what "attractive" and "chaotic" really means!</abstract>
-    <youtube></youtube>
+    <youtube>68kXOgVKaUg</youtube>
     <zoom>https://universityofsussex.zoom.us/j/97883512861?pwd=VVVWWmV6RzFzaVFaTk9jZHNlU005QT09</zoom>
     <bio> </bio>
   </talk>
@@ -154,7 +154,7 @@
     <title>An Introduction to Relativity</title>
     <speaker>Dr. Stephen Wilkins</speaker>
     <date>Thursday, 28 May 2020 - 7.00PM</date>
-    <abstract> </abstract>
+    <abstract>The theory of relativity encompasses two interrelated theories developed by Albert Einstein in the early 20th century: special relativity and general relativity. Special and general relativity describe the mechanics of objects and the force of gravity respectively. Relativity transformed theoretical physics and astronomy during the 20th century, superseding the 200-year old theory of mechanics created primarily by Isaac Newton. It introduced concepts including spacetime as the unified entity of space and time, time dilation, and length contraction, many of which appear counter-intuitive. Relativity also has consequences for astronomy and cosmology with phenomenon such as neutron stars, black holes, and gravitational waves emerging as a result. In this talk I’ll introduce the motivation, foundations, and consequences of the theory of relativity in an accessible way.</abstract>
     <youtube> </youtube>
     <zoom>https://universityofsussex.zoom.us/j/92700328256</zoom>
     <bio>Stephen Wilkins is a reader in Astronomy and public engagement fellow at the University of Sussex. Born in Yorkshire, Stephen completed his undergraduate degree in Physics and Astronomy at the University of Durham before undertaking a PhD in Astronomy at the University of Cambridge. He was subsequently as post-doctoral researcher at the University of Oxford before moving to a lectureship at Sussex in 2013. His research mostly focusses on the study of the first stars and galaxies to form in the Universe. To do this he uses a combination of space obsevatories (such as Hubble and Spitzer) and super-computer simulations.</bio>
