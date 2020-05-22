@@ -12,7 +12,7 @@
     <bio></bio>
   </talk>
 
-  <talk subject="particle" status="2">
+  <talk subject="physics" status="2">
     <name>particle</name>
     <title>Higgs Fizz in the Big Bang</title>
     <speaker>Prof. Mark Hindmarsh</speaker>
@@ -23,7 +23,7 @@
     <bio> </bio>
   </talk>
 
-  <talk subject="particle" status="2">
+  <talk subject="physics" status="2">
     <name>particle</name>
     <title>Symmetries, Scales and the Origin of Everything</title>
     <speaker>Prof. Philip Harris</speaker>
@@ -35,7 +35,7 @@
     <bio> </bio>
   </talk>
 
-  <talk subject="materials" status="1">
+  <talk subject="physics" status="1">
     <name>nanomaterials</name>
     <title>Exploring The Tiny World Of Nanomaterials</title>
     <speaker>Dr Matt Large</speaker>
@@ -47,7 +47,7 @@
   </talk>
 
 
-  <talk subject="particle" status="2">
+  <talk subject="physics" status="2">
     <name>particle</name>
     <title>The Big Bang Experiment</title>
     <speaker>Prof. Antonella De Santo</speaker>
@@ -58,7 +58,7 @@
     <bio> </bio>
   </talk>
 
-  <talk subject="particle" status="1">
+  <talk subject="physics" status="1">
     <name>neutrinos</name>
     <title>Neutrinos: The Deep Secrets of Nature’s Ghosts</title>
     <speaker>Dr. Lisa Falk</speaker>
@@ -70,7 +70,7 @@
   </talk>
 
 
-  <talk subject="quantum" status="2">
+  <talk subject="physics" status="2">
     <name>quantum</name>
     <title>Constructing the world’s most incredible machines: Quantum Computers</title>
     <speaker>Prof. Winfried Hensinger</speaker>
@@ -138,7 +138,7 @@
   </talk>
 
 
-  <talk subject="biology" status="3">
+  <talk subject="biology" status="1">
     <name>insect-apocalypse</name>
     <title>Averting the Insect Apocalypse</title>
     <speaker>Prof. Dave Goulson</speaker>
@@ -149,7 +149,7 @@
     <bio>Dave Goulson is Professor of Biology at University of Sussex, specializing in bee ecology. He has published more than 300 scientific articles on the ecology and conservation of bumblebees and other insects. He is the author of Bumblebees; Their Behaviour, Ecology and Conservation, published in 2010 by Oxford University Press, and of the Sunday Times bestseller A Sting in the Tale, a popular science book about bumble bees, published in 2013 by Jonathan Cape, and now translated into fourteen languages. This was followed by A Buzz in the Meadow in 2014, Bee Quest in 2017, and The Garden Jungle in 2019. Goulson founded the Bumblebee Conservation Trust in 2006, a charity which has grown to 12,000 members. He was the Biotechnology and Biological Sciences Research Council’s Social Innovator of the Year in 2010, was given the Zoological Society of London’s Marsh Award for Conservation Biology in 2013, was elected a Fellow of the Royal Society of Edinburgh in 2013, and given the British Ecological Society Public Engagement Award in 2014. In 2015 he was named number 8 in BBC Wildlife Magazine’s list of the top 50 most influential people in conservation. In 2018 and 2019 he was named as a “Highly Cited Researcher” by Thompson ISI.</bio>
   </talk>
 
-  <talk subject="particle" status="0">
+  <talk subject="physics" status="0">
     <name>relativity</name>
     <title>An Introduction to Relativity</title>
     <speaker>Dr. Stephen Wilkins</speaker>
@@ -161,20 +161,40 @@
   </talk>
 
 
+  <talk subject="biology" status="0">
+    <name>untangling-alzheimers</name>
+    <title>Untangling the causes of Alzheimer’s disease</title>
+    <speaker>Prof. Louise Serpell</speaker>
+    <date>Thursday, 4 June 2020 - 7.00PM</date>
+    <abstract>Alzheimer’s disease is the most common form of Dementia and diagnosis is increasing as we live longer. In this talk, I will describe what we know about the possible causes of Alzheimer’s disease and explain what researchers are doing to understand the mechanisms of disease. This basic research work is essential to understand a complex disease to enable therapies to be designed to modify disease progression.</abstract>
+    <youtube></youtube>
+    <zoom>https://universityofsussex.zoom.us/j/97991149158?pwd=QWF3K0tqUFpOVnBmTERwWS9OcmtvQT09</zoom>
+    <bio>Professor Louise Serpell is a Professor of Biochemistry at the University of Sussex, UK and a Director of Sussex Neuroscience. Her work focusses on protein self-assembly and misfolding at the heart of neurodegenerative diseases and amyloidosis.  Louise Serpell has been conducting research to understand neurodegenerative diseases for over 25 years. She did her PhD in Oxford in 1992-1995 and then spent as a postdoc 2 years in Toronto, Canada before returning to work in Cambridge where she set up an independent research group. She has been working at the University of Sussex for 15 years. She has an interest in protein self-assembly. A major aim of her research group is to understand the underlying causes of Alzheimer’s disease (AD).  Her research group uses a highly multidisciplinary approach to investigate these questions incorporating a fibrous protein structure determination and neuroscience to examine the protein related mechanisms that lead to AD.</bio>
+  </talk>
 
 
-  <talk subject="particle" status="0">
+  <talk subject="astronomy" status="0">
     <name>first-light</name>
     <title>First Light: the Search for the First Stars in the Universe</title>
     <speaker>Dr. Stephen Wilkins</speaker>
     <date>Thursday, 11 June 2020 - 7.00PM</date>
     <abstract>As we look out in to the Universe we also look back in time. Eventually we reach a period of the Universe's history before stars (and galaxies) had formed; these are the Dark Ages. The Dark Ages were brought to an end by the formation of the first stars and super-massive black holes some few hundred million years after the big bang. The identification of these first objects is one of the goals of modern extragalactic astronomy. While tremendous progress has been made with Hubble, its small mirror and lack of infrared capability limits its ability to probe this critical period of the Universe's history. However, in the next decade a number of new facilities will be coming online that will shine a light on this critical period in the Universe's history. These include: the Webb Telescope, the successor to both the Hubble and Spitzer space observatories due to be launched in 2021; the new generation of "extremely large" ground based telescopes; and the Square Kilometre Array, the next generation radio telescope currently under construction in Australia and South Africa.</abstract>
-    <youtube> </youtube>
-    <zoom>https://universityofsussex.zoom.us/j/95567149223?pwd=eEtkS1lVaEYzRjZCY05QTTluRmRtQT09</zoom>
+    <youtube></youtube>
+    <zoom>https://universityofsussex.zoom.us/j/97991149158?pwd=QWF3K0tqUFpOVnBmTERwWS9OcmtvQT09</zoom>
     <bio>Stephen Wilkins is a reader in Astronomy and public engagement fellow at the University of Sussex. Born in Yorkshire, Stephen completed his undergraduate degree in Physics and Astronomy at the University of Durham before undertaking a PhD in Astronomy at the University of Cambridge. He was subsequently as post-doctoral researcher at the University of Oxford before moving to a lectureship at Sussex in 2013. His research mostly focusses on the study of the first stars and galaxies to form in the Universe. To do this he uses a combination of space obsevatories (such as Hubble and Spitzer) and super-computer simulations.</bio>
   </talk>
 
 
+  <talk subject="astronomy" status="0">
+    <name>primordial-blackholes</name>
+    <title>Black holes from the Big Bang </title>
+    <speaker>Dr. Chris Byrnes</speaker>
+    <date>Thursday, 18 June 2020 - 7.00PM</date>
+    <abstract>When a star dies, it can collapse into a black hole more massive than the sun. However, it is also possible that black holes formed shortly after the Big Bang, long before stars existed, and these could have any mass. I will discuss recent observations of black holes, via the light generated by material falling into them and gravitational waves caused by black hole collisions, and we can try to determine whether they formed from Big Bang or if they are dead stars.</abstract>
+    <youtube> </youtube>
+    <zoom>https://universityofsussex.zoom.us/j/97991149158?pwd=QWF3K0tqUFpOVnBmTERwWS9OcmtvQT09</zoom>
+    <bio> </bio>
+  </talk>
 
 
 
