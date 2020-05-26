@@ -196,6 +196,26 @@
     <bio> </bio>
   </talk>
 
+  <talk subject="physics" status="0">
+    <name>lhc</name>
+    <title>The LHC: A Ring with No Lord</title>
+    <speaker>Dr. Iacopo Vivarelli</speaker>
+    <date>Thursday, 25 June 2020 - 7.00PM</date>
+    <abstract>The Large Hadron Collider and its experiments are one of the most complex scientific enterprises of this century. The Higgs boson discovery is among their many scientific achievements. Remarkably, these experimental infrastructures, and the science done with it, are the end products of huge international collaborations. In this talk, I will use the Higgs boson discovery as an excuse to tell a bit about how these experimental facilities work, and it is like to work there.</abstract>
+    <youtube> </youtube>
+    <zoom>https://universityofsussex.zoom.us/j/97991149158?pwd=QWF3K0tqUFpOVnBmTERwWS9OcmtvQT09</zoom>
+    <bio> </bio>
+  </talk>
 
+  <talk subject="mathematics" status="0">
+    <name>knots</name>
+    <title>The Mathematical Theory of Knots</title>
+    <speaker>Dr. Roger Fenn</speaker>
+    <date>Thursday, 2 July 2020 - 7.00PM</date>
+    <abstract> </abstract>
+    <youtube> </youtube>
+    <zoom>https://universityofsussex.zoom.us/j/97991149158?pwd=QWF3K0tqUFpOVnBmTERwWS9OcmtvQT09</zoom>
+    <bio>Roger Fenn is an emeritus reader at the University of Sussex, mathematics department. He came via an undergraduate degree at Cambridge and a Ph.D at KCL in which he proved the famous table theorem that every square table can be settled on a bumpy floor so that it is horizontal and doesn't wobble. Together with Louis Kauffman of Chicago he is giving a zoom course on knot theory which has more than 200 followers from all over the world. </bio>
+  </talk>
 
 </talks>
