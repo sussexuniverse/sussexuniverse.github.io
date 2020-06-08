@@ -155,19 +155,19 @@
     <speaker>Dr. Stephen Wilkins</speaker>
     <date>Thursday, 28 May 2020 - 7.00PM</date>
     <abstract>The theory of relativity encompasses two interrelated theories developed by Albert Einstein in the early 20th century: special relativity and general relativity. Special and general relativity describe the mechanics of objects and the force of gravity respectively. Relativity transformed theoretical physics and astronomy during the 20th century, superseding the 200-year old theory of mechanics created primarily by Isaac Newton. It introduced concepts including spacetime as the unified entity of space and time, time dilation, and length contraction, many of which appear counter-intuitive. Relativity also has consequences for astronomy and cosmology with phenomenon such as neutron stars, black holes, and gravitational waves emerging as a result. In this talk I’ll introduce the motivation, foundations, and consequences of the theory of relativity in an accessible way.</abstract>
-    <youtube> </youtube>
+    <youtube>Xb3m7L3u6qQ</youtube>
     <zoom>https://universityofsussex.zoom.us/j/92700328256</zoom>
     <bio>Stephen Wilkins is a reader in Astronomy and public engagement fellow at the University of Sussex. Born in Yorkshire, Stephen completed his undergraduate degree in Physics and Astronomy at the University of Durham before undertaking a PhD in Astronomy at the University of Cambridge. He was subsequently as post-doctoral researcher at the University of Oxford before moving to a lectureship at Sussex in 2013. His research mostly focusses on the study of the first stars and galaxies to form in the Universe. To do this he uses a combination of space obsevatories (such as Hubble and Spitzer) and super-computer simulations.</bio>
   </talk>
 
 
-  <talk subject="biology" status="0">
+  <talk subject="biology" status="1">
     <name>untangling-alzheimers</name>
     <title>Untangling the causes of Alzheimer’s disease</title>
     <speaker>Prof. Louise Serpell</speaker>
     <date>Thursday, 4 June 2020 - 7.00PM</date>
     <abstract>Alzheimer’s disease is the most common form of Dementia and diagnosis is increasing as we live longer. In this talk, I will describe what we know about the possible causes of Alzheimer’s disease and explain what researchers are doing to understand the mechanisms of disease. This basic research work is essential to understand a complex disease to enable therapies to be designed to modify disease progression.</abstract>
-    <youtube></youtube>
+    <youtube>J95mDKFjYlE</youtube>
     <zoom>https://universityofsussex.zoom.us/j/97991149158?pwd=QWF3K0tqUFpOVnBmTERwWS9OcmtvQT09</zoom>
     <bio>Professor Louise Serpell is a Professor of Biochemistry at the University of Sussex, UK and a Director of Sussex Neuroscience. Her work focusses on protein self-assembly and misfolding at the heart of neurodegenerative diseases and amyloidosis.  Louise Serpell has been conducting research to understand neurodegenerative diseases for over 25 years. She did her PhD in Oxford in 1992-1995 and then spent as a postdoc 2 years in Toronto, Canada before returning to work in Cambridge where she set up an independent research group. She has been working at the University of Sussex for 15 years. She has an interest in protein self-assembly. A major aim of her research group is to understand the underlying causes of Alzheimer’s disease (AD).  Her research group uses a highly multidisciplinary approach to investigate these questions incorporating a fibrous protein structure determination and neuroscience to examine the protein related mechanisms that lead to AD.</bio>
   </talk>
@@ -217,5 +217,19 @@
     <zoom>https://universityofsussex.zoom.us/j/97991149158?pwd=QWF3K0tqUFpOVnBmTERwWS9OcmtvQT09</zoom>
     <bio>Roger Fenn is an emeritus reader at the University of Sussex, mathematics department. He came via an undergraduate degree at Cambridge and a Ph.D at KCL in which he proved the famous table theorem that every square table can be settled on a bumpy floor so that it is horizontal and doesn't wobble. Together with Louis Kauffman of Chicago he is giving a zoom course on knot theory which has more than 200 followers from all over the world. </bio>
   </talk>
+
+
+  <talk subject="psychology" status="0">
+    <name>riots</name>
+    <title>Crowds, riots and simple social influence: Beyond contagion</title>
+    <speaker>Prof. John Drury</speaker>
+    <date>Thursday, 30 July 2020 - 7.00PM</date>
+
+    <abstract>This talk is about one of the most powerful and persuasive metaphors in social science and everyday explanation: contagion. Contagion usually translates as influence or spread of behaviour that occurs through mere touch, like a disease. The concept was first used in a social science context in the late nineteenth century when the crowd was seen as a threat to civilization and gentlemen scholars sought intellectual weapons against that threat. Since then, numerous simple behaviours (such as smiling, scratching, yawning, and laughing) and complex phenomena (such as riots) have been described as cases of contagion. A key problem for all these accounts is the evidence of social group boundaries to influence – mere touch is not sufficient. Based on this evidence I suggest alternative ways of thinking about unintended influence in groups and crowds, based on the concept of shared social identity. My take-home message is that the contagion concept conceals more than it reveals and that we need another terminology for talking about behavioural spread. </abstract>
+    <youtube> </youtube>
+    <zoom>https://universityofsussex.zoom.us/j/97991149158?pwd=QWF3K0tqUFpOVnBmTERwWS9OcmtvQT09</zoom>
+    <bio>John Drury is Professor of Social Psychology at the University of Sussex. He has published over 70 peer-reviewed journal articles on crowd behaviour including on events such as the 2011 English riots, the London bombings of July 7th 2005, the Hillsborough disaster, and the 2010 Chile earthquake. He teaches crowd psychology to the UK Fire and Rescue Service and to crowd safety managers around the world. His research on mass emergencies has informed the training of over 2000 crowd safety managers and stewards across the UK and European football clubs and informs the Civil Contingencies Secretariat’s National Risk Assessments. He heads the Crowds and Identities group at the University of Sussex.</bio>
+  </talk>
+
 
 </talks>
