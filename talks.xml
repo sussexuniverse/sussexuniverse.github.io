@@ -196,13 +196,13 @@
     <bio> </bio>
   </talk>
 
-  <talk subject="physics" status="0">
+  <talk subject="physics" status="1">
     <name>lhc</name>
     <title>The LHC: A Ring with No Lord</title>
     <speaker>Dr. Iacopo Vivarelli</speaker>
     <date>Thursday, 25 June 2020 - 7.00PM</date>
     <abstract>The Large Hadron Collider and its experiments are one of the most complex scientific enterprises of this century. The Higgs boson discovery is among their many scientific achievements. Remarkably, these experimental infrastructures, and the science done with it, are the end products of huge international collaborations. In this talk, I will use the Higgs boson discovery as an excuse to tell a bit about how these experimental facilities work, and it is like to work there.</abstract>
-    <youtube> </youtube>
+    <youtube>gsTBK5-fwHs</youtube>
     <zoom>https://universityofsussex.zoom.us/j/97991149158?pwd=QWF3K0tqUFpOVnBmTERwWS9OcmtvQT09</zoom>
     <bio> </bio>
   </talk>
