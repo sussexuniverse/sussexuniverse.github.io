@@ -207,7 +207,7 @@
     <bio> </bio>
   </talk>
 
-  <talk subject="mathematics" status="0">
+  <talk subject="mathematics" status="1">
     <name>knots</name>
     <title>The Mathematical Theory of Knots</title>
     <speaker>Dr. Roger Fenn</speaker>
