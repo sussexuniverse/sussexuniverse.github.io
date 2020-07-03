@@ -198,6 +198,7 @@ function show_talk(i) {
 
 
 function close_talk() {
+  document.getElementById("talk_window").innerHTML = '';
   $("#talk_background").css("display", "none");
   $("#talk_container").css("display", "none");
 }
