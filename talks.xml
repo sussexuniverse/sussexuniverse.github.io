@@ -244,12 +244,23 @@
   </talk>
 
 
-  <talk subject="mathematics" status="0">
+  <talk subject="mathematics" status="1">
     <name>queues-traffic-zombies</name>
     <title>Queues = Traffic = Zombies</title>
     <speaker>Dr Nicos Georgiou</speaker>
     <date>Thursday, 13 August 2020 - 7.00PM</date>
     <abstract>Any driver have found themselves stuck in traffic for an extended period of times. Reasons for this may vary from accidents to good weather to road work. Similar to traffic, all of us have found ourselves waiting in queues, experiencing other queues moving faster than ours. Luckily, none of us experienced a zombie invasion. However, under a certain light, all of these three things are the same from a mathematical perspective. So what can probability theory say about traffic, queues and zombies? The talk will begin by briefly and simply explaining the three main types of questions in modern probability, namely laws of large numbers, fluctuations and large deviations. Then we will try to give answers for some of this questions: How does traffic evolve? How long will take me to reach my destination when the traffic has a given density? How many highway exits do I need to pass in order to get out of highway traffic? How long will wait in queue and with what probability? Where are the zombies?</abstract>
+    <youtube>https://youtu.be/X6hCTdz0QVw </youtube>
+    <zoom>https://universityofsussex.zoom.us/j/97991149158?pwd=QWF3K0tqUFpOVnBmTERwWS9OcmtvQT09</zoom>
+    <bio> </bio>
+  </talk>
+
+  <talk subject="astronomy" status="0">
+    <name>wheat</name>
+    <title>Wonderful World of Wheat</title>
+    <speaker>Will Roper</speaker>
+    <date>Thursday, 27 August 2020 - 7.00PM</date>
+    <abstract> Wheat... the gluten tolerant amongst us will encounter it in some form or another (almost) everyday of our lives. In fact, the UK is one of the world leaders in wheat production and consumption. It should therefore be clear that understanding wheat production is an important field of research in agriculture, not only to farmers but consumers, breeders, insurance companies, and the government. In this talk I will endeavour to give a view into a tiny portion of this research, particularly the work I have been undertaking as part of the SimFarm2030 project at Sussex, in partnership with the University of Reading and the Met Office. I will attempt to answer the questions: why is wheat so important? How do you go about modelling it and what do you model? And, most importantly, why on Earth is an astrophysicist working on wheat modelling!? </abstract>
     <youtube> </youtube>
     <zoom>https://universityofsussex.zoom.us/j/97991149158?pwd=QWF3K0tqUFpOVnBmTERwWS9OcmtvQT09</zoom>
     <bio> </bio>
