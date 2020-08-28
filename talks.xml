@@ -255,12 +255,23 @@
     <bio> </bio>
   </talk>
 
-  <talk subject="astronomy" status="0">
+  <talk subject="astronomy" status="1">
     <name>wheat</name>
     <title>Wonderful World of Wheat</title>
     <speaker>Will Roper</speaker>
     <date>Thursday, 27 August 2020 - 7.00PM</date>
     <abstract> Wheat... the gluten tolerant amongst us will encounter it in some form or another (almost) everyday of our lives. In fact, the UK is one of the world leaders in wheat production and consumption. It should therefore be clear that understanding wheat production is an important field of research in agriculture, not only to farmers but consumers, breeders, insurance companies, and the government. In this talk I will endeavour to give a view into a tiny portion of this research, particularly the work I have been undertaking as part of the SimFarm2030 project at Sussex, in partnership with the University of Reading and the Met Office. I will attempt to answer the questions: why is wheat so important? How do you go about modelling it and what do you model? And, most importantly, why on Earth is an astrophysicist working on wheat modelling!? </abstract>
+    <youtube>Ux34H1h_aUU</youtube>
+    <zoom>https://universityofsussex.zoom.us/j/97991149158?pwd=QWF3K0tqUFpOVnBmTERwWS9OcmtvQT09</zoom>
+    <bio> </bio>
+  </talk>
+
+  <talk subject="astronomy" status="0">
+    <name>hot-holes</name>
+    <title>Hot Black Holes and the spaghettification of cool doughnuts</title>
+    <speaker>Dr Darren Baskill</speaker>
+    <date>Thursday, 10 September 2020 - 7.00PM</date>
+    <abstract> </abstract>
     <youtube> </youtube>
     <zoom>https://universityofsussex.zoom.us/j/97991149158?pwd=QWF3K0tqUFpOVnBmTERwWS9OcmtvQT09</zoom>
     <bio> </bio>
