@@ -278,7 +278,7 @@
   </talk>
 
 
-  <talk subject="mathematics" status="0">
+  <talk subject="mathematics" status="1">
     <name>eulers-constant</name>
     <title>Euler's amazing constant</title>
     <speaker>Dr Roger Luther</speaker>
@@ -289,7 +289,16 @@
     <bio> </bio>
   </talk>
 
-
+  <talk subject="astronomy" status="0">
+    <name>simulating-universe</name>
+    <title>Simulating the Universe</title>
+    <speaker>Dr Chris Lovell and Will Roper</speaker>
+    <date>Thursday, 12 November 2020 - 7.00PM</date>
+    <abstract> </abstract>
+    <youtube> </youtube>
+    <zoom>https://universityofsussex.zoom.us/j/97991149158?pwd=QWF3K0tqUFpOVnBmTERwWS9OcmtvQT09</zoom>
+    <bio> </bio>
+  </talk>
 
 
 
