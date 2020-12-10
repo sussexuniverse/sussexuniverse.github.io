@@ -32,8 +32,8 @@ function use_params() {
 
 function make_talk_list(chosen_subject) {
 
-  var colors = {"astronomy": "682CBF", "physics": "3E49BB", "mathematics": "526EFF", "informatics": "32C12C", "chemistry": "FFEF00", "biology": "FF5500", "psychology": "D40C00"};
-  var subjects = ['all','astronomy','physics','mathematics','informatics','chemistry','biology','psychology'];
+  var colors = {"astronomy": "000000", "physics": "682CBF", "mathematics": "3E49BB", "informatics": "526EFF", "engineering": "32C12C", "chemistry": "FFEF00", "biology": "FF5500", "psychology": "D40C00"};
+  var subjects = ['all','astronomy','physics','mathematics','informatics', 'engineering', 'chemistry','biology','psychology'];
 
   x = xmlDoc.getElementsByTagName("title");
   txt = "";
@@ -80,8 +80,8 @@ function make_talk_list(chosen_subject) {
 
 function make_ALL_talk_list() {
 
-  var colors = {"astronomy": "682CBF", "physics": "3E49BB", "mathematics": "526EFF", "informatics": "32C12C", "chemistry": "FFEF00", "biology": "FF5500", "psychology": "D40C00"};
-  var subjects = ['all','astronomy','physics','mathematics','informatics','chemistry','biology','psychology'];
+  var colors = {"astronomy": "000000", "physics": "682CBF", "mathematics": "3E49BB", "informatics": "526EFF", "engineering": "32C12C", "chemistry": "FFEF00", "biology": "FF5500", "psychology": "D40C00"};
+  var subjects = ['all','astronomy','physics','mathematics','informatics', 'engineering', 'chemistry','biology','psychology'];
 
   x = xmlDoc.getElementsByTagName("title");
   txt = "";

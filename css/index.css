@@ -233,7 +233,7 @@ a {
   #select_container {
     margin: auto;
     width:90%;
-    max-width: 900px;
+    max-width: 1000px;
     }
 
   #select {
@@ -251,28 +251,30 @@ a {
     margin: auto;
     text-align: center;
     width:90%;
-    max-width: 900px;
+    max-width: 1000px;
   }
 
   .subject-all {
       background: linear-gradient(
       90deg,
-      #682CBF,
-      #682CBF 10px,
-      #3E49BB 10px,
-      #3E49BB 20px,
-      #526EFF 20px,
-      #526EFF 30px,
-      #32C12C 30px,
-      #32C12C 40px,
-      #FFEF00 40px,
-      #FFEF00 50px,
-      #FF5500 50px,
-      #FF5500 60px,
-      #D40C00 60px,
-      #D40C00 70px);
-      height: 70px;
-      width: 70px;
+      #000000,
+      #000000 9px,
+      #682CBF 9px,
+      #682CBF 18px,
+      #3E49BB 18px,
+      #3E49BB 27px,
+      #526EFF 27px,
+      #526EFF 36px,
+      #32C12C 36px,
+      #32C12C 45px,
+      #FFEF00 45px,
+      #FFEF00 54px,
+      #FF5500 54px,
+      #FF5500 63px,
+      #D40C00 63px,
+      #D40C00 72px);
+      height: 72px;
+      width: 72px;
       border-radius: 50%;
       display: inline-block;
           }
@@ -289,8 +291,8 @@ a {
     font-size: 12;
     margin: auto;
     display: inline-block;
-    width: 70px;
-    height: 85px;
+    width: 72px;
+    height: 87px;
     padding: 10px;
     opacity:0.5;
     filter: alpha(opacity=50);
@@ -306,16 +308,16 @@ a {
     font-size: 12;
     margin: auto;
     display: inline-block;
-    width: 70px;
-    height: 85px;
+    width: 72px;
+    height: 87px;
     padding: 10px;
     cursor: pointer;
     opacity:1.0;
   }
 
   .subject_image {
-    width: 70px;
-    height: 70px;
+    width: 72px;
+    height: 72px;
   }
 
 
