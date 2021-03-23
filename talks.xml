@@ -327,7 +327,7 @@
   <talk subject="psychology" status="0">
     <name>restless</name>
     <title>Restless Days and Restless Nights</title>
-    <speaker>Faith Orchard</speaker>
+    <speaker>Dr Faith Orchard</speaker>
     <date>Thursday, 25 March 2021 - 7.00PM</date>
     <abstract><![CDATA[<p>Most of us have experienced disturbed sleep at some point in our lives. Sleep problems might include difficulties getting to sleep, staying asleep, waking up too early, or sleeping too much. Sleep problems can occur for many reasons and if temporary lead to a range of short term difficulties e.g. tiredness, irritability. However, for some people sleep difficulties are more chronic.</p>
 
@@ -338,5 +338,20 @@
     <zoom>https://universityofsussex.zoom.us/j/97275321266?pwd=L0JhS1plTmI3OE1EUnl0d0xhU3haUT09</zoom>
     <bio> </bio>
   </talk>
+
+
+  <talk subject="engineering" status="0">
+    <name>fiveg</name>
+    <title>Where are we with 5G and AI, and what may come next?</title>
+    <speaker>Prof. Maziar Nekovee </speaker>
+    <date>Thursday, 22 April 2021 - 7.00PM</date>
+    <abstract>5G, the new generation of mobile communication systems, promise to expand the applications of mobile communications to entirely new and previously unimagined industries” such as self-driving cars, smart cities, industry 4.0, remote robotic surgery, smart agriculture, and smart energy grids.  Breakthroughs in Artificial Intelligence (AI) and Machine Learning (ML), including deep neural networks and probability models, are creating paths for computing technology to perform tasks that once seemed out of reach. The focus of this lecture is to summarise and illustrate, with examples from our own and others research, the current state of these two disruptive technologies. Casting our mind a decade ahead, we look at the clash of this disruptive technologies and how this may unleash as-yet-unrealized capabilities and technology solutions to meet the key challenges of our societies in 2030.</abstract>
+    <youtube> </youtube>
+    <zoom>https://universityofsussex.zoom.us/j/97275321266?pwd=L0JhS1plTmI3OE1EUnl0d0xhU3haUT09</zoom>
+    <bio> Prof. Maziar Nekovee is Head of the Centre for Advanced Communications, Mobile Technology and IoT, Dean of Sussex AI Institute, ZJSU
+School of Engineering and Informatics, University of Sussex.
+</bio>
+  </talk>
+
 
 </talks>
